@@ -28,3 +28,4 @@ build/
 /.nb-gradle/
 
 */src/generated/
+/src/main/resources/apigateway/sdk/properties/pylon*.json
